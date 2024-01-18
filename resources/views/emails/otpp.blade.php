@@ -1,0 +1,1 @@
+Mã otp của bạn: {{$otp}}

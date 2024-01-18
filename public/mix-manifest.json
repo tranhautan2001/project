@@ -1,0 +1,13 @@
+{
+    "/js/app.min.js": "/js/app.min.js",
+    "/css/checkout.css": "/css/checkout.css",
+    "/css/cart.css": "/css/cart.css",
+    "/css/detail.css": "/css/detail.css",
+    "/css/category.css": "/css/category.css",
+    "/css/header.css": "/css/header.css",
+    "/css/header.min.css": "/css/header.min.css",
+    "/css/category.min.css": "/css/category.min.css",
+    "/css/detail.min.css": "/css/detail.min.css",
+    "/css/cart.min.css": "/css/cart.min.css",
+    "/css/checkout.min.css": "/css/checkout.min.css"
+}
